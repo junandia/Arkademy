@@ -1,8 +1,8 @@
 #Rismawan Junandia - SMK Pasim Plus Kota Sukabumi
 #ARKADEMY SELEKSI BOOTCAMP [GBK4-C]
 
-#Soal no 1 ada di folder 1
-#Soal no 4 ada di folder 4
+#Soal no 1 ada di file 1.php
+#Soal no 4 ada di file 4.php
 #Soal no 6 ada di folder 6
 #Soal no 7 ada di folder 7
 
